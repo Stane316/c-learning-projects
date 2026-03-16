@@ -8,7 +8,7 @@ Chaque projet contient un fichier `main.c` corrigé et un `README.md` explicatif
 
 ---
 
-## Structure du monorepo
+## Structure 
 
 ```
 c-learning-projects/
